@@ -2,7 +2,7 @@
 
 **`Analista de atendimento em TI`**
 
-Sou formada em Tecnologia em Redes de Computadores Atuo no suporte de TI aos usuários. experiente em atendimento nível I e II. Help desk (com ferramentas: anydesk, teamviewer e remote desktop protocol), local e em campo. Prestei serviço em empresas pequenas, grandes empresas, indústria e atacado. Tenho iniciativa e pensamento analítico para resolução de problemas. Possuo experiencia em Monitoramento dos servidores de aplicação, gerenciamento de link, manutenção em redes de computadores e em hardware, Gerenciamento do contrato dos ativos de informática, responsável pela segurança dos recursos da rede (dados e serviço), filtro e escalonamento de ticket’s e prioridade de chamados (SLA).
+Sou formada em Tecnologia em Redes de Computadores Atuo no suporte de TI aos usuários. experiente em atendimento nível I e II. Help desk (com ferramentas: anydesk, teamviewer, remote desktop protocol e ssh), local e em campo. Prestei serviço em empresas pequenas, grandes empresas, indústria e atacado. Tenho iniciativa e pensamento analítico para resolução de problemas. Possuo experiencia em Monitoramento dos servidores de aplicação, gerenciamento de link, manutenção em redes de computadores e em hardware, Gerenciamento do contrato dos ativos de informática, responsável pela segurança dos recursos da rede (dados e serviço), filtro e escalonamento de ticket’s e prioridade de chamados (SLA).
 
  </a> 
     <a href="https://github.com/ti-JennyB?tab=repositories&sort=stargazers">
